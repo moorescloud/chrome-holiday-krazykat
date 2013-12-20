@@ -1,0 +1,39 @@
+body {
+  background-color: white;
+}
+
+h1 {
+  color: black;
+  font-family: monospace;
+}
+
+a {
+  font-family: Arial, Helvetica, Sans-Serif;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+img {
+  vertical-align: middle;
+}
+
+ul {
+  list-style-position:inside;
+}
+
+li {
+  list-style-type: none;
+  border-top: 2px solid black;
+  border: 2px solid black;
+  border-bottom: 2px solid black;
+  width: 300px;
+  background-color: white;
+  font-family: Arial, Helvetica, Sans-Serif;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+span.entry {
+  position: relative;
+  left: 10px;
+}
